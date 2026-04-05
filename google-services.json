@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373917193590",
+    "project_id": "productmanager-befed",
+    "storage_bucket": "productmanager-befed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373917193590:android:4e02122ebafb2814fc1657",
+        "android_client_info": {
+          "package_name": "com.company.mynewproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfgmrpipjObhSw7EYRh0IQgUz5CJyVAJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
